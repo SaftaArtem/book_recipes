@@ -1,0 +1,28 @@
+.header_container,
+.brd {
+  border: solid 1px black;
+}
+.sidebar {
+  padding: 80px 20px 20px 20px;
+}
+.brd_down {
+  border-bottom: solid 1px black;
+}
+.content_header {
+  margin: 20px;
+}
+.content_body {
+  margin: 0 20px;
+  border: solid 1px black;
+}
+.add_btn {
+  background: rgb(48, 83, 136);
+  color: white;
+}
+.add_btn:hover {
+  background: #fff;
+  color:  rgb(48, 83, 136);
+}
+.row {
+  padding: 10px;
+}
